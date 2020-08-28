@@ -1,0 +1,20 @@
+{
+  "name": "todo-to-undo-xstate-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.5.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "xstate-codegen": "^0.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "^14.6.1",
+    "@types/react": "^16.9.48"
+  }
+}
